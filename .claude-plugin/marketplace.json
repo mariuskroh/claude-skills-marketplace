@@ -1,0 +1,14 @@
+{
+  "name": "marius-claude-skills",
+  "owner": {
+    "name": "Marius Kroh",
+    "email": "marius.kroh@googlemail.com"
+  },
+  "plugins": [
+    {
+      "name": "marius-toolkit",
+      "source": "./plugins/marius-toolkit",
+      "description": "Marius's personal Claude skills toolkit"
+    }
+  ]
+}

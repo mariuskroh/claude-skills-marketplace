@@ -1,0 +1,9 @@
+{
+  "name": "marius-toolkit",
+  "description": "Marius's personal Claude skills toolkit",
+  "version": "0.1.0",
+  "author": {
+    "name": "Marius Kroh",
+    "email": "marius.kroh@googlemail.com"
+  }
+}
